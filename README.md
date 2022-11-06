@@ -7,7 +7,7 @@
  # Animack
 
  <h4>
-   Keep track of your anime & manga shows.
+   Keep track of your anime & manga shows.a
  </h4>
 
  [![GitHub](https://img.shields.io/badge/by-giusgo-green)](https://github.com/giusgo)
